@@ -1,5 +1,8 @@
 # CogniDhi — AI-powered Cognitive Screening & Brain-Fitness
 
+<img width="1920" height="1080" alt="CogniDhi" src="https://github.com/user-attachments/assets/5994ada1-8b7e-43da-9258-d5e3d6d7d5a5" />
+
+
 **Short description**  
 CogniDhi is a multimodal AI cognitive-health companion: clinically-grounded cognitive screening, longitudinal tracking, and personalized brain-fitness routines with gamified engagement. This repo contains the prototype code, documentation, and pitch deck for the project. :contentReference[oaicite:1]{index=1}
 
