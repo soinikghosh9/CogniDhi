@@ -19,11 +19,11 @@ CogniDhi is a multimodal AI cognitive-health companion: clinically-grounded cogn
 - DevOps: Docker, Google Cloud Platform  
 - Privacy: HIPAA/GDPR-ready design (anonymization, opt-in consent)
 
-License
 
-Suggested: MIT.
+**License**
+MIT.
 
-Contact
+## Contact
 
 Soinik Ghosh — School of Biomedical Engineering, IIT BHU, Varanasi, India
 Email: soinikghosh.rs.bme23@itbhu.ac.in
